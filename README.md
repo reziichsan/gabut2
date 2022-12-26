@@ -1,11 +1,11 @@
 # Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+buat doi
 
 
 # Description
-Flower code tiktok trend 
+Zii
 
 Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 
-Thanks to codepan and mdusmanansari
+Thanks to Allah SWT
